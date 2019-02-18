@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "VR Museum",
+"dataUrl": "64c83df1bab715f4367ec255e46d1a57.unityweb",
+"wasmCodeUrl": "9d597c4006633194ec831da438560df9.unityweb",
+"wasmFrameworkUrl": "595673c8a7da52635ef8ec2b0c09fb8a.unityweb",
+"TOTAL_MEMORY": 134217728,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
